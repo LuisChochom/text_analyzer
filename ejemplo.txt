@@ -1,0 +1,1 @@
+Esta es otra prueba de creacion de archivo con el editor de texto simple.
